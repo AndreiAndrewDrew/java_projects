@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndrewSandbox.iml" filepath="$PROJECT_DIR$/.idea/modules/AndrewSandbox.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndrewSandbox.main.iml" filepath="$PROJECT_DIR$/.idea/modules/AndrewSandbox.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndrewSandbox.test.iml" filepath="$PROJECT_DIR$/.idea/modules/AndrewSandbox.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_projects.iml" filepath="$PROJECT_DIR$/java_projects.iml" />
     </modules>
   </component>
