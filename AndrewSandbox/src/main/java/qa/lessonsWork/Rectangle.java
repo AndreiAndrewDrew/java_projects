@@ -9,14 +9,13 @@ public class Rectangle {
 
     this.lung=lung;
     this.lats=lats;
-
-  //constructor
+    //constructor
   }
 
   public double ariadreptunghi() {
 
     return this.lung * this.lats;
-
-  }//metoda "ariadreptunghi" care e asociata cu obiectul Rectangle
+    //metoda "ariadreptunghi" care e asociata cu obiectul Rectangle
+  }
 
 }
