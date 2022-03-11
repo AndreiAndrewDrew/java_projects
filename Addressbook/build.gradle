@@ -1,0 +1,24 @@
+apply plugin: 'java'
+
+
+repositories {
+    mavenCentral()
+}
+dependencies {
+    implementation 'org.testng:testng:7.5'
+
+    implementation 'org.slf4j:slf4j-log4j1:1.7.29'
+
+    implementation 'org.seleniumhq.selenium:selenium-java:4.1.2'
+
+    implementation 'org.seleniumhq.selenium.ide:selenium-ide:1.0.2'
+
+    implementation 'com.btmatthews.selenium.junit4:selenium-junit4-runner:1.0.6'
+
+    implementation 'org.jbehave.web:jbehave-web-selenium-java-spring-archetype:4.0-beta-1'
+
+}
+test {
+    useJUnitPlatform()
+}
+

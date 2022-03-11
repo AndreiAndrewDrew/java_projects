@@ -1,0 +1,12 @@
+{
+  "suites" : [ {
+    "uuid" : "4e6f85aa-46d3-43e9-96bb-f15aeb6b2ec3",
+    "parentUuid" : "08665a70-a86d-47e4-857a-a5c48b3028ca",
+    "name" : "Default Suite",
+    "start" : 1646984248483,
+    "stop" : 1646984248715,
+    "duration" : 232,
+    "thread" : "9156@DESKTOP-GO6B3DD.main(1)",
+    "host" : "DESKTOP-GO6B3DD"
+  } ]
+}
