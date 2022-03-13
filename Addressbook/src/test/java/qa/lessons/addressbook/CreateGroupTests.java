@@ -19,7 +19,7 @@ public class CreateGroupTests {
     driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
   }
 
-  @Test
+  @Test //inceput de test
   public void testUntitledTestCase() throws Exception {
     driver.get("http://localhost/addressbook/");
     driver.findElement(By.name("user")).click();
